@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Steverjava</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://steverjava.top/</id>
+  <link href="https://steverjava.top/" rel="alternate"/>
+  <link href="https://steverjava.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Steverjava</rights>
+  <subtitle>循此苦旅,以达星辰</subtitle>
+  <title>贾魔司</title>
+  <updated>2026-08-27T16:00:00.000Z</updated>
+  <entry>
+    <author>
+      <name>Steverjava</name>
+    </author>
+    <category term="随笔" scheme="https://steverjava.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://steverjava.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="博客" scheme="https://steverjava.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <content>
+      <![CDATA[<blockquote><p>Per Aspera Ad Astra —— <strong>循此苦旅,以达星辰</strong>。</p></blockquote><p>你好,我是贾魔司。这里是新博客的第一篇文章,也算是一份主题的”说明书”。</p><h2 id="为什么开博客"><a href="#为什么开博客" class="headerlink" title="为什么开博客"></a>为什么开博客</h2><p>写作是最好的思考方式。把学到的、踩过的坑、想明白的事写下来:</p><ul><li>输出倒逼输入,写不清楚的地方往往就是没想明白的地方</li><li>记录成长的轨迹,回头能看见自己的变化</li><li>万一能帮到屏幕前的你,那就更好了</li></ul><h2 id="这个博客能做什么"><a href="#这个博客能做什么" class="headerlink" title="这个博客能做什么"></a>这个博客能做什么</h2><p>本站使用自研的 <strong>Aurora</strong> 主题,支持:</p><ol><li><strong>暗色&#x2F;亮色一键切换</strong> —— 右上角按钮,偏好会被记住</li><li><strong>站内全文搜索</strong> —— 按 <code>Ctrl + K</code> 试试</li><li><strong>评论区</strong> —— 基于 Giscus,用 GitHub 账号即可留言</li><li><strong>阅读进度条 + 回到顶部</strong> —— 长文友好</li></ol><h3 id="目录与导航"><a href="#目录与导航" class="headerlink" title="目录与导航"></a>目录与导航</h3><p>文章右侧(桌面端)有随滚动高亮的目录;顶栏可以直达归档、标签、分类与关于页。</p><h4 id="更深的小标题"><a href="#更深的小标题" class="headerlink" title="更深的小标题"></a>更深的小标题</h4><p>四、五级标题用于细分小节,同样会出现在目录中。</p><h2 id="排版示例"><a href="#排版示例" class="headerlink" title="排版示例"></a>排版示例</h2><p>这是一段<strong>加粗</strong>、<em>斜体</em>、<code>行内代码</code> 与<a href="https://hexo.io/">链接</a>的普通段落。</p><blockquote><p>这是一段引用。玻璃质感、左侧极光色竖条,长文中的”金句”区。</p></blockquote><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight js"><table><tr><td class="code"><pre><code class="hljs js"><span class="hljs-comment">// 极光配色,自带复制按钮</span><br><span class="hljs-keyword">function</span> <span class="hljs-title function_">aurora</span>(<span class="hljs-params">name</span>) &#123;<br>  <span class="hljs-keyword">const</span> hue = <span class="hljs-title function_">hash</span>(name) % <span class="hljs-number">130</span> + <span class="hljs-number">190</span>;<br>  <span class="hljs-keyword">return</span> <span class="hljs-string">`hsl(<span class="hljs-subst">$&#123;hue&#125;</span> 70% 60%)`</span>;<br>&#125;<br></code></pre></td></tr></table></figure><figure class="highlight bash"><table><tr><td class="code"><pre><code class="hljs bash">$ hexo clean &amp;&amp; hexo generate &amp;&amp; hexo deploy<br></code></pre></td></tr></table></figure><h3 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h3><table><thead><tr><th>功能</th><th>快捷键</th><th>说明</th></tr></thead><tbody><tr><td>打开搜索</td><td><code>Ctrl + K</code></td><td>全站全文搜索</td></tr><tr><td>切换主题</td><td>右上角按钮</td><td>跟随系统或手动</td></tr><tr><td>回到顶部</td><td>右下角按钮</td><td>长文专用</td></tr></tbody></table><h3 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h3><ul><li><input checked="" disabled="" type="checkbox"> 搭建 Hexo 博客</li><li><input checked="" disabled="" type="checkbox"> 自研 Aurora 主题</li><li><input disabled="" type="checkbox"> 坚持写作</li></ul><h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>愿这个小小的空间,能陪你走过一段路。有任何问题,欢迎在评论区留言,或者通过 GitHub 找到我。</p>]]>
+    </content>
+    <id>https://steverjava.top/2026/08/28/welcome/</id>
+    <link href="https://steverjava.top/2026/08/28/welcome/"/>
+    <published>2026-08-27T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<blockquote>
+<p>Per Aspera Ad Astra —— <strong>循此苦旅,以达星辰</strong>。</p>
+</blockquote>
+<p>你好,我是贾魔司。这里是新博客的第一篇文章,也算是一份主题的”说明书”。</p>
+<h2 id="为什么]]>
+    </summary>
+    <title>你好,世界 —— 博客开张</title>
+    <updated>2026-08-27T16:00:00.000Z</updated>
+  </entry>
+</feed>
